@@ -1,0 +1,106 @@
+h1{
+    color: #FFECE1 ;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+h2{
+    color: #FFECE1 ;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+h3{
+    color: #FFECE1 ;
+    font-size: 8px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+h4{
+    color: #FFECE1 ;
+    font-size: 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+p{
+    color: #FFECE1 ;
+    font-size: 9px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+
+
+
+/*BODY COLOR*/
+
+body{
+    background-color: #11104A;
+}
+
+
+
+
+/*NAV TOP*/
+
+.imageTop{
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+}
+
+
+/*PLACEMENT CLASS FESTIVAL*/
+
+
+.festival{
+    display: flex;
+}
+
+.infosFest{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.infoFestTomo{
+    display: flex;
+}
+
+.logoTomorrowland{
+    height: 20px;
+}
+
+
+
+.infoFestUltra{
+    display: flex;
+}
+
+.logoUltraFestival{
+    height: 20px;
+}
+
+
+
+
+/*PLACEMENT CLASS ARTISTES*/
+
+.artistes{
+    display: flex;
+}
+
+.infosArtistes{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+/*PLACEMENT NAV*/
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+}
